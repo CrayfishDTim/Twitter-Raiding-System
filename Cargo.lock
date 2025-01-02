@@ -375,7 +375,7 @@ dependencies = [
 
 [[package]]
 name = "apistos-models"
-version = "0.2.6"
+version = "0.2.6" xn5iZUgUUC
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "7b39462e59033dbe05818054f48c4bec943101941e0675e1bc534170a2538482"
 dependencies = [
