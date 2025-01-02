@@ -33,7 +33,7 @@ sqlx = { version = "0.7.0", default-features = false, features = [
     "json",
     "uuid",
     "runtime-tokio-rustls", 
-    "bigdecimal", NfwVvu9K6N
+    "bigdecimal",
     "migrate",
 ] }
 uuid = { version = "1.4.0", features = ["serde", "v4"] }
