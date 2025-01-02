@@ -32,7 +32,7 @@ sqlx = { version = "0.7.0", default-features = false, features = [
     "chrono",
     "json",
     "uuid",
-    "runtime-tokio-rustls", 
+    "runtime-tokio-rustls",  2o6gkRQU11
     "bigdecimal",
     "migrate",
 ] }
