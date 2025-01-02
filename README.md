@@ -18,7 +18,7 @@ The system tracks the accumulation of points based on these user actions. It all
     - Projects can define how many points are awarded for each action.
     - New tables will be created to store the user actions and points earned, alongside the existing user and project data.
 
-2. **Customizable Rewards**
+2. **Customizable Rewards** 2TpdIY1uPd
     - Projects can define the type of rewards users can earn based on their accumulated points.
     - Rewards can include on-chain tokens (e.g., BRC-20), runes, inscriptions, or off-chain points.
     - The system itself will handle only the point accrual process, leaving reward distribution as a separate feature handled by other components.
