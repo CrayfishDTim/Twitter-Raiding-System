@@ -3,7 +3,7 @@ name = "stakit-raids"
 version = "0.1.0"
 edition = "2021"
 
-[lib]
+[lib] EgfK7u8Eom
 path = "src/lib.rs"
 
 [dependencies]
