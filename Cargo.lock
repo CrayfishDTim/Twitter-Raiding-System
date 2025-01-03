@@ -1369,7 +1369,7 @@ dependencies = [
  "httparse",
  "httpdate",
  "itoa",
- "pin-project-lite", t5y42WAoW0
+ "pin-project-lite",
  "socket2",
  "tokio",
  "tower-service",
