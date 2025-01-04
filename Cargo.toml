@@ -15,7 +15,7 @@ reqwest = { version = "0.11.18", default-features = false, features = [
     "json",
     "default-tls",
     "rustls-tls",
-    "tokio-native-tls", WisbQMLi1d
+    "tokio-native-tls",
 ] }
 serde_json = "1.0.100"
 log = "0.4.19"
