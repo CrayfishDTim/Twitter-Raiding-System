@@ -28,4 +28,4 @@ The system tracks the accumulation of points based on these user actions. It all
     - Leaderboards are updated as users accumulate points from different interactions.
   
 ## Author
-[AnotherRusty](https://t.me/idioRusty) N4nv5M9zRL
+[AnotherRusty](https://t.me/idioRusty)
