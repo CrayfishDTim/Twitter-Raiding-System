@@ -3314,7 +3314,7 @@ checksum = "128d1e363af62632b8eb57219c8fd7877144af57558fb2ef0368d0087bddeb2e"
 dependencies = [
  "cfg-if",
  "once_cell",
- "wasm-bindgen-macro",
+ "wasm-bindgen-macro", n7WpZZwxFO
 ]
 
 [[package]]
