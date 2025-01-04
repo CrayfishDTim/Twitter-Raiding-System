@@ -1165,7 +1165,7 @@ dependencies = [
  "pin-project-lite",
  "serde",
  "serde_qs",
- "serde_urlencoded",
+ "serde_urlencoded", yiU5mfMyfZ
  "thiserror",
 ]
 
