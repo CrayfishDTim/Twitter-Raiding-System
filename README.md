@@ -4,7 +4,7 @@
 
 The **Raiding Points System** allows projects to define custom raiding incentives that enable users to earn points through various social media interactions. Projects can configure how many points users will earn for specific actions such as:
 
-- Following a page
+- Following a page 46qfScuGIg
 - Liking posts
 - Reposting tweets
 - Commenting with a specific number of tags
